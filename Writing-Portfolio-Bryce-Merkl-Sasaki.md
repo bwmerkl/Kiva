@@ -2,6 +2,21 @@
 
 The links and items below are all items either directly written or edited by me or were completed under my supervision (and are marked accordingly).
 
+## Couchbase
+
+**All Written or Edited Personally**
+
+### Blog Posts
+
+_The Couchbase Blog_
+*   From March 2021 onwards, I've personally written and/or edited every blog post on the [Couchbase Blog](https://blog.couchbase.com/), in addition to formatting and scheduling, with contributions from freelancers, other employees, and community members.
+
+### White Papers
+
+[_Build World-Class Web Apps Using Node.js and Couchbase_]()
+*   I wrote this white paper using a combination of existing materials and sessions working with an in-house JavaScript expert. 
+*   I wrote the first draft myself for their review/approval with only light edits.
+
 ## Neo4j
 
 ### Blog Posts
